@@ -1,0 +1,6 @@
+ProductID,ProductName,CompanyName,SupplierID,CategoryID,UnitsSold,RevenueInDollars
+1,Audi R8,Audi,1,1,299,134550000
+2,Audi A7,Audi,1,2,4200,33600000
+3,Audi A8,Audi,1,2,1593,175230000
+4,Mercedes AMG ONE,Mercedes-Benz,2,1,275,748000000
+5,Mercedes EQS,Mercedes-Benz,2,2,2403,300375000
